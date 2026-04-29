@@ -106,8 +106,9 @@ In other words, the HMM performs very well when the noise process matches its as
 
 ```text
 .
-├── NoisyChordSequenceDenoising.ipynb
+├── noisychordsequencedenoising.py
 ├── Final Presentation_ Noisy Chord Sequence Denoising.pdf
 ├── README.md
 ├── LICENSE
-└── requirements.txt
+├── requirements.txt
+└── Final Results\
